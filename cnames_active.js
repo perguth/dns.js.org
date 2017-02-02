@@ -169,6 +169,7 @@ var cnames_active = {
     ,"diamond": "diamondpkg.github.io/website"
     ,"diffract": "ameyms.github.io/diffract" //noCF? (don´t add this in a new PR)
     ,"dinesh": "dineshondev.github.io/dinesh" //noCF? (don´t add this in a new PR)
+    ,"thingylabs": "thingylabs.github.io"
     ,"dio": "thysultan.github.io/dio.js"
     ,"discord": "hydrabolt.github.io/discord.js-site"
     ,"distillery": "achannarasappa.github.io/distillery" //noCF? (don´t add this in a new PR)
