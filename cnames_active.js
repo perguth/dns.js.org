@@ -631,6 +631,7 @@ var cnames_active = {
     ,"textillate": "jschr.github.io/textillate" //noCF? (don´t add this in a new PR)
     ,"texy": "egoist.github.io/texy"
     ,"themoviedb": "chrisenytc.github.io/themoviedb" //noCF? (don´t add this in a new PR)
+    ,"thingylabs": "thingylabs.github.io"
     ,"thundercats": "thundercatsjs.github.io/thundercats" //noCF? (don´t add this in a new PR)
     ,"timerizer": "callumacrae.github.io/timerizerJS" //noCF? (don´t add this in a new PR)
     ,"tint": "tintjs.github.io" //noCF? (don´t add this in a new PR)
